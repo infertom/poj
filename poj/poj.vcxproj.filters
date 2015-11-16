@@ -24,6 +24,9 @@
     <ClCompile Include="2891.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2407.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="in.txt" />

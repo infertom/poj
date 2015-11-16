@@ -76,6 +76,7 @@
   <ItemGroup>
     <ClCompile Include="1006.cpp" />
     <ClCompile Include="1061.cpp" />
+    <ClCompile Include="2407.cpp" />
     <ClCompile Include="2891.cpp" />
   </ItemGroup>
   <ItemGroup>
